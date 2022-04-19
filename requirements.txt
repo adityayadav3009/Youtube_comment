@@ -2,7 +2,7 @@ streamlit
 pandas
 google-api-python-client
 nltk
-re
+regex
 numpy
 vaderSentiment
 sklearn
