@@ -19,6 +19,7 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import seaborn as sns
 from textblob import TextBlob
+nltk.download('punkt')
 nltk.download('stopwords')
 lemm = WordNetLemmatizer()
 stop_nltk = stopwords.words("english")
