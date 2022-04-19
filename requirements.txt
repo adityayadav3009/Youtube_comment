@@ -1,0 +1,13 @@
+streamlit
+os
+pandas
+googleapiclient.discovery
+nltk
+re
+numpy
+vaderSentiment
+sklearn
+wordcloud
+matplotlib
+seaborn
+textblob
