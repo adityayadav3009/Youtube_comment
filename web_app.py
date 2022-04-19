@@ -20,7 +20,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from textblob import TextBlob
 
-
+nltk.download('wordnet')
 lemm = WordNetLemmatizer()
 stop_nltk = stopwords.words("english")
 stop_nltk.remove('not')
